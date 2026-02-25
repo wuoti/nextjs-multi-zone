@@ -1,0 +1,6 @@
+{
+  "name": "@repo/home",
+  "projectType": "application",
+  "tags": ["zone:home", "type:app"],
+  "implicitDependencies": ["@repo/shared"]
+}

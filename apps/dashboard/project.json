@@ -1,0 +1,6 @@
+{
+  "name": "@repo/dashboard",
+  "projectType": "application",
+  "tags": ["zone:dashboard", "type:app"],
+  "implicitDependencies": ["@repo/shared"]
+}
